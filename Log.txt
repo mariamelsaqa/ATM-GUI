@@ -1,0 +1,5 @@
+Transaction Type, Account Number, Amount/NewPin, Date, Time
+Change Pin, *****976, 123456, 2021/11/30, 03:36:15
+Withdrawl, *****976, 100, 2021/11/30, 03:36:32
+Deposit, *****976, 100, 2021/11/30, 03:36:57
+Transfer Money, fROM *****976 TO *****478, 100, 2021/11/30, 03:37:34
